@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "ipl\\Uri\\": "src/"
+    }
+  },
+  "name": "ipl/uri",
+  "require": {
+    "php": ">=5.6"
+  }
+}
